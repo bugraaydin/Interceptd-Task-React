@@ -8,4 +8,4 @@ A simple React App for Pokemon information display. It is possible to iterate ov
 * npm start
 
 
-![demo_image](https://cdn1.imggmi.com/uploads/2019/11/16/e6f490a633f51380e8951e34a9bd5987-full.png)
+![demo_image](https://cdn1.imggmi.com/uploads/2019/11/16/6809ee6893b02e6de8913c1456180603-full.png)
